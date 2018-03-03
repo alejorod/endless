@@ -5,7 +5,7 @@ Endless runner game based on [boost 2](https://itunes.apple.com/es/app/boost-2/i
 ### Prototype
 Try it out, [here](https://alejorod.github.io/endless/public/).
 
-### TODO ಠ_ಠ
+### Things missing ಠ_ಠ
 
 * Add and display score
 * Add more types of obstacles

@@ -1,0 +1,17 @@
+{
+  "name": "boost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "rollup -c",
+    "build:watch": "rollup -wc"
+  },
+  "author": "Alejo Rodriguez <a.rodsott@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.56.3",
+    "rollup-plugin-commonjs": "^8.3.0",
+    "rollup-plugin-node-resolve": "^3.0.3"
+  }
+}
